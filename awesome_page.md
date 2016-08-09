@@ -12,6 +12,6 @@ git clone <GITHUB-URL>
 For example, this project is at:
 [https://github.com/georobGWJ/phase-0-gps-1](https://github.com/georobGWJ/phase-0-gps-1)
 
-![Screencap!](~/Desktop/DBC/devbootcamp/phase0-gps-1-pair/phase-0-gps-1/GPS_1.1_Screencap.tiff "GPS Screen Capture")
+![Screencap!](~/Desktop/DBC/devbootcamp/phase0-gps-1-pair/phase-0-gps-1/GPS_1.1_Screencap.tiff "Guided Pair Session Screen Capture")
 
 
